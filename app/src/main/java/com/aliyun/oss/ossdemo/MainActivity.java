@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String callbackAddress = "http://116.62.44.4:7081";
     private static final String bucket = "";
     private String region = "上海";
-
+    private String testgit;
 
     /*
     private static final String accessKeyId = "******";
